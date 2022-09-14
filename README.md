@@ -1,4 +1,4 @@
-# data  
+# Alan Korjo - QA Analyst  
 Hello, I'm Alan :) 
 I'm a Chemical Engineer, I've been working in the BPO industry for a while as a QA Analyst. 
 I've managed to develop myself in data anaylsis and here's my little portfolio that's still growing as I learn more and more.
